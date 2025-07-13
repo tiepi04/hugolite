@@ -69,6 +69,10 @@ menu:
       name: 搜索
       url: /search/
       weight: 40
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 50
     # 可以添加更多导航链接。weight的值越高排序越靠后
 
 # 如果要启用搜索功能，需要添加这个

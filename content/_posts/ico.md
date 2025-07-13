@@ -3,7 +3,7 @@ title: 随机图片站记录
 published: 2025-07-12T10:11:15+08:00
 summary: "文章简介"
 cover:
-  image: "https://sb-r2.afo.im/myblog/img/f286ef4d-326c-4c7c-8a1e-ed150937a12b.webp"
+  image: "https://rpic.origz.com/api.php?category=photography"
 tags: [标签1, 标签2]
 categories: '文章所处的分类'
 draft: false 
@@ -15,3 +15,5 @@ lang: ''
 
 ![2](https://t.alcy.cc/ai)
 ![2](https://imgapi.xl0408.top/)
+
+[都是这个人的](https://www.kanostar.top/archives/img-api)

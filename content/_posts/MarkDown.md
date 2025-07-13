@@ -9,7 +9,7 @@ categories: '语言'
 draft: false 
 lang: ''
 ---
-这个页面主要用来测试功能
+这个页面是Hexo用的，Hugo不完全支持
 ## 1.粗体
 这个字体更粗<b>粗体</b>
 ``` bash
@@ -22,7 +22,7 @@ lang: ''
 ```
 下面是搜集的颜色列表:
 
-<img src="./hexo-2/colour.png" alt="颜色表" style="zoom:67%;" />
+![颜色表](/photos/colour.png)
 
 > 懂了格式后其它颜色同理
 
