@@ -15,6 +15,9 @@ lang: ''
 ## Rotation(屏幕强制旋转)
 [123云盘下载_版本25.0.2](https://www.123pan.com/s/wkn6Vv-QVpiH.html)提取码：WfSp
 
+## 下载
+[IDM下载工具](https://www.123pan.com/s/wkn6Vv-rkfiH.html)
+
 ## IP摄像头
 <li style="margin-left: 40px;font-size: 15px">下载</li>
 [123云盘下载](https://www.123pan.com/s/wkn6Vv-vgfiH.html)提取码：Mwqm

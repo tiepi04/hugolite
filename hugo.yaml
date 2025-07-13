@@ -16,9 +16,11 @@ params:
   # 是否显示分享按钮
   ShowShareButtons: true
   # 分享按钮配置
-  # ShareButtons: ["linkedin", "twitter"]
+  # ShareButtons: ["twitter", "linkedin"]
   # 是否禁用主题切换按钮
   disableThemeToggle: false
+  # 是否显示目录
+  ShowToc: true
   assets:
     favicon: "/favicon.png" # 需要在static文件夹放置对应的图片
     iconHeight: 35
@@ -44,8 +46,8 @@ params:
       url: "https://space.bilibili.com/513107113"
     - name: github
       url: "https://github.com/tiepi04"
-    - name: telegram
-      url: ""
+    - name: rss
+      url: "/index.xml"
     # 可以添加更多社交图标 https://github.com/adityatelange/hugo-PaperMod/wiki/Icons
 
 # 顶部导航栏的快捷链接
@@ -75,3 +77,4 @@ outputs:
     - HTML
     - RSS
     - JSON # 必须，用于搜索功能
+

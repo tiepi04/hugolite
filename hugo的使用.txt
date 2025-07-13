@@ -1,5 +1,8 @@
 1. 启动本地预览并创建文档
 hugo server -D
+
+hugo server --buildDrafts --bind 0.0.0.0 --port 1313
+
 2. 创建新文章
 hugo new _posts/first.md
 3.创建public文件夹

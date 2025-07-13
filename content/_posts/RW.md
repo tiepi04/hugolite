@@ -33,7 +33,7 @@ R/r都行，H/h都行但建议用H
 
 1. 在"请输入IP地址"处输入r6666，H6666（数字部分必须是是任意的四位及以上数字）
 其实这就是`房间号`，一般会出现以下截图
-<img src="./RW/connect.jpg" alt="连接失败" style="zoom:20%;" />
+![连接失败](/photos/connect.jpg)
 这个界面能做的事就很多了
 
 2. 开房指令
@@ -42,11 +42,11 @@ H/h开头的完全不能公开（房间号是"HPAWZJ"这种的）</i>
 
 上个步骤完成后就可以输入开房指令了
 
-公开原版房/mod房：newup/modsup
-不公开原版房/mod房：new/mods
-指定人数房：newp20/modsp20
-指定倍数(英文逗号后是大写的i)：new,I20
-指定房间号(666)：c666/cm666
+- 公开原版房/mod房：newup/modsup
+- 不公开原版房/mod房：new/mods
+- 指定人数房：newp20/modsp20
+- 指定倍数(英文逗号后是大写的i)：new,I20
+- 指定房间号(666)：c666/cm666
 
 例：newp10,200I30是新建原版房，人数最多10人，单位上限200，经济倍率30
 
@@ -58,7 +58,8 @@ H/h开头的完全不能公开（房间号是"HPAWZJ"这种的）</i>
 
 视频演示：
 开始输入T666是因为房间号是T666,不过我估计进入那个界面后只需要输入后面的数字就行
-{% dplayer "url=rwvideo.mp4"  "autoplay=false" "preload=metadata" "hotkey=true" %}
+
+[视频](/videos/rwvideo.mp4)
 
 <p style="color: #00FF00;">优：</p>
 1. 联机稳定
@@ -73,4 +74,4 @@ H/h开头的完全不能公开（房间号是"HPAWZJ"这种的）</i>
 
 https://github.com/RW-HPS/RW-HPS
 
-现在学不了了，好像跑路了，打不开
+现在学不了了，好像被黑子摸了，打不开
