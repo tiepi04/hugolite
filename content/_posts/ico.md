@@ -1,7 +1,7 @@
 ---
 title: 随机图片站记录
 published: 2025-07-12T10:11:15+08:00
-summary: "文章简介"
+summary: "暂时文档"
 cover:
   image: "https://rpic.origz.com/api.php?category=photography"
 tags: [标签1, 标签2]

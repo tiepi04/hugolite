@@ -31,13 +31,13 @@ cat /sys/class/mmc_host/mmc0/mmc0:0001/life_time
 0X08 用了80%的寿命
 0X00 看不到寿命
 ·如图
-![EMMC寿命对照表](./Linux-1/EMMC.png)
+![EMMC寿命对照表](/photos/EMMC.png)
 所以你已经懂它的格式了吧
 不懂我就给你看两张照片对比一下
 看不到寿命或满血的情况
-![看不到寿命的情况](./Linux-1/1.jpg)
+![看不到寿命的情况](/photos/1.jpg)
 能看到寿命的情况
-![能看到寿命的情况](./Linux-1/2.jpg)
+![能看到寿命的情况](/photos/2.jpg)
 
 # 网络
 ## 设置网络(WiFi、USB网络、设置名称等)

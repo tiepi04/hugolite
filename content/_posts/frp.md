@@ -12,7 +12,8 @@ lang: ''
 <i>frp可以通过有公网IP的的服务器将内网的主机暴露给互联网，从而实现通过外网能直接访问到内网主机；frp有服务端和客户端，服务端需要装在有公网ip的服务器上，客户端装在内网主机上。</i>
 
 # 简单图解
-<img src="show.png" alt="介绍" style="zoom:30%;" />
+
+![介绍](/photos/show.png "图示")
 
 # 实例
 ## 下载frp
@@ -24,7 +25,8 @@ tar -txvf 文件名
 ```
 
 解压如下：
-<img src="jieya.png" alt="解压" style="zoom:50%;" />
+
+![解压](/photos/jieya.png "解压内容")
 
 ## 执行命令
 ### 文件权限更改

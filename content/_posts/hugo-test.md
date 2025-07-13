@@ -1,7 +1,7 @@
 ---
 title: Hugo Test
 published: 2025-07-13T11:50:37+08:00
-summary: "test"
+summary: "测试在Hugo上的写作功能"
 cover:
   image: "https://rba.kanostar.top/landscape"
 tags: [语言, 博客]
@@ -31,6 +31,12 @@ H1到H6正常
 ## 插入字
 
 hugo好像打不出插入字
+
+[我直接拿链接当插入字(push)]()
+
+``` bash
+[我直接拿链接当插入字(push)]()
+```
 
 ## 粗体
 1. **粗体1**
@@ -102,8 +108,13 @@ _斜体2_
 ```
 
 ### 链接图片
-[![沙漠中的岩石图片](https://markdown.com.cn/assets/img/shiprock.c3b9a023.jpg "点了就是刷新这个界面")](https://blog.tiepi.eu.org/_posts/hugo-test/)
+[![沙漠中的岩石图片](https://markdown.com.cn/assets/img/shiprock.c3b9a023.jpg "点了就是刷新这个界面")]()
 *你点一下试试*
+
+``` bash
+[![沙漠中的岩石图片](https://markdown.com.cn/assets/img/shiprock.c3b9a023.jpg "点了就是刷新这个界面")]()
+```
+最后的括号输入想跳转的链接
 
 ## 引用
 

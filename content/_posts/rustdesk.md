@@ -60,8 +60,8 @@ cat ./id_ed25519.pub
   <li style="margin-left: 40px;font-size: 15px">下载完成，需要安装才能配置自建的rustdesk服务器</li>
 # 客户端的配置
 修改了端口的配置如下，<b>如果使用默认端口 只需要在 ID服务器填上你的服务器地址</b>，图中以上文端口为例
-![](rustdesk1.png)
+![](/photos/rustdesk1.png)
 在客户端两边均填写相同信息，便可以像TeamViewer一样访问了，可以使用下图中的配置的复制粘贴功能
-![](rustdesk2.png)
+![](/photos/rustdesk2.png)
 
 参考链接[https://www.cnblogs.com/HeisenbergUncertainty/p/17908858.html](https://www.cnblogs.com/HeisenbergUncertainty/p/17908858.html)
