@@ -4,8 +4,8 @@ published: 2025-07-12T10:11:15+08:00
 summary: "暂时文档"
 cover:
   image: "https://rpic.origz.com/api.php?category=photography"
-tags: [标签1, 标签2]
-categories: '文章所处的分类'
+tags: [临时文章]
+categories: '临时文章'
 draft: false 
 lang: ''
 ---
