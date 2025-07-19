@@ -19,16 +19,17 @@ lang: ''
 [IDM下载工具](https://www.123pan.com/s/wkn6Vv-rkfiH.html)
 
 ## IP摄像头
-<li style="margin-left: 40px;font-size: 15px">下载</li>
+- 下载
 [123云盘下载](https://www.123pan.com/s/wkn6Vv-vgfiH.html)提取码：Mwqm
 
-<li style="margin-left: 40px;font-size: 15px">条码制作器(辅助软件)</li>
-扫分享的二维码用的
+- 条码制作器(辅助软件)，扫分享的二维码用的
 [123云盘下载](https://www.123pan.com/s/wkn6Vv-TgfiH.html)提取码：uckj
 
 ## 环境检测工具
 1."momo"环境检测4.4.1版
+
 [123云盘下载_版本4.4.1](https://www.123pan.com/s/wkn6Vv-eipiH.html)
+
 [蓝奏云下载_版本4.4.1](https://wwp.lanzoup.com/iC9SP1dug0qh)提取码：2r5d
 
 
@@ -40,10 +41,10 @@ lang: ''
 支持画笔
 支持最高1080p 12Mpbs 120FPS
 应用图片(放不下就看看吧)
-|图一|图二|
+- 下载链接
+
+|||
 |---|---|
-|![图一](./video/1.jpg)|![图二](./video/2.jpg)|
-2.下载链接
 |[123云盘下载_版本5.10.6](https://www.123pan.com/s/wkn6Vv-3VpiH.html)提取码：eqMd|[蓝奏云下载_版本5.10.6](https://wwp.lanzoup.com/iM4H51dug88h)提取码：8c5h|
 
 ## 视频剪辑
@@ -54,7 +55,9 @@ lang: ''
 ## 视频播放
 ### XPlayer(已破解)
 视频,音乐都能播放，功能强大
+
 [123云盘下载_版本2.2.1.2](https://www.123pan.com/s/wkn6Vv-hVpiH.html)提取码：XWsx
+
 [蓝奏云下载_版本2.2.1.2](https://wwp.lanzoup.com/iW26T1dug49e)提取码：apj4
 
 

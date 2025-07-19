@@ -9,6 +9,11 @@ categories: '服务器'
 draft: false 
 lang: ''
 ---
+> 注意现在这篇的参考价值很低
+>
+> 直接用host的网络连接方式更好
+
+
 <i>RustDesk 是一款可以平替 TeamViewer 的开源软件，旨在提供安全便捷的自建方案。</i>
 [官网](rustdesk.com)
 

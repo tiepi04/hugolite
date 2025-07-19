@@ -12,6 +12,7 @@ lang: ''
 # 一.准备
 ## 下载
 [123云盘下载_版本0.118.0](https://www.123pan.com/s/wkn6Vv-AVpiH.html)提取码：7qQk
+
 [蓝奏云下载_版本0.118.0](https://wwp.lanzoup.com/iDBWX1dugbpc)提取码：acmx
 ### 换源
 ``` bash

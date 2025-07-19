@@ -4,7 +4,7 @@ published: 2024-08-27T12:05:46+08:00
 summary: "我用来替代VPN服务器的东西"
 cover:
   image: "https://rpic.origz.com/api.php?category=pixiv"
-tags: [网络]
+tags: [网络,服务器]
 categories: '网络'
 draft: false 
 lang: ''
@@ -68,6 +68,7 @@ bindPort = 7000
 vim frpc.toml
 
 # 我的填写内容如下：
+``` bash
 serverPort = 7000   # 服务端运行端口
 [[proxies]]
 name = "test-tcp"
@@ -77,11 +78,7 @@ localPort = 22  # 想转发的(本地)端口
 remotePort = 6000   # 转发到(服务器的)此端口
 ```
 
-<li style="margin-left: 40px;font-size: 15px">安卓客户端app</li>
-1 FRP_1.2.0.apk<a href="FRP_1.2.0.apk">点击下载</a>
 
-2 Frpc_0.39.1.1.apk<a href="Frpc_0.39.1.1.apk">点击下载</a>
-<i>配置在前面，复制更改一下即可</i>
 
 # 参考：
 [https://blog.csdn.net/qq_36981760/article/details/115713179](https://blog.csdn.net/qq_36981760/article/details/115713179)

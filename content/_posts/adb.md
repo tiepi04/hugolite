@@ -31,8 +31,8 @@ sh /storage/emulated/0/.chaozhuo.gameassistant2/inject.sh
 [123云盘下载_版本1.5.0](https://www.123pan.com/s/wkn6Vv-ttpiH.html)
 [蓝奏云下载_版本1.5.0](https://wwp.lanzoup.com/iQ62S1dug35e)提取码：38ev
 ### adb pull命令使用
-把手机/sdcard/1里的文件下载到电脑D:\1文件夹里(/sdcard/1/文件名也行)
+- 把手机/sdcard/1里的文件下载到电脑D:\1文件夹里(/sdcard/1/文件名也行)
+``` bash
 adb pull /sdcard/1 D:\1
-
-主题https://theme-next.org/
-彩色字https://benpaodewoniu.github.io/2020/01/27/hexo12/
+```
+- 具体用法我不清楚，因为我没用过

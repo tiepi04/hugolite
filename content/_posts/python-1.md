@@ -103,3 +103,9 @@ lang: ''
 - [ ] Python AI 绘画
 
 # 测验
+
+
+
+
+# 临时存放
+<https://www.delftstack.com/zh/howto/python/what-is-the-difference-between-list-methods-append-and-extend/>

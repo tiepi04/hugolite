@@ -1,7 +1,7 @@
 ---
 title: Hugo Test
 published: 2025-07-13T11:50:37+08:00
-summary: "测试在Hugo上的写作功能"
+summary: "测试在Hugo上的MarkDown记录"
 cover:
   image: "https://rba.kanostar.top/landscape"
 tags: [语言, 博客]
